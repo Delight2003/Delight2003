@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Delight
 - 👀 I’m interested in frontend development and Technical Writing. 
 - 🌱 I’m currently a Frontend Developer 
-- 💞️ I’m looking to collaborate on open source, hackathons and Frontend related matters. 
+- 💞️ I’m looking to collaborate on open source, and technical writing.
 - 📫 How to reach me ikechidelightcharles@gmail.com
 
 <!---
