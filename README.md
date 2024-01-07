@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Delight2003
-- 👀 I’m interested in coding and revolutionizing the world through technology 
-- 🌱 I’m currently a frontend developer 
-- 💞️ I’m looking to collaborate on several projects 
+- 👋 Hi, I’m Delight
+- 👀 I’m interested in frontend development and Technical Writing. 
+- 🌱 I’m currently a Frontend Developer 
+- 💞️ I’m looking to collaborate on open source, hackathons and Frontend related matters. 
 - 📫 How to reach me ikechidelightcharles@gmail.com
 
 <!---
